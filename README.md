@@ -6,6 +6,8 @@
      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
     ----------------------------------------------------------------- 
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/git-it-remote-control.svg)](https://www.guardrails.io)
+
 
 Welcome to your Node.js project on Cloud9 IDE!
 
